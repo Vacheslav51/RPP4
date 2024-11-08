@@ -18,7 +18,6 @@ jobs:
 
       - name: Build project
         run: |
-          # Здесь добавьте команды для сборки вашего проекта, если это необходимо
           echo "Build step here"
 
       - name: Deploy to GitHub Pages
